@@ -1,2 +1,2 @@
-# KAIST-AI-LAB2-20190722
-Concrete Dropout Practice Session
+# Bayesian-Deep-Learning-Tutorials
+Bayesian Deep Learning Tutorials
