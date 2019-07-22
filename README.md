@@ -11,6 +11,6 @@
 
 3. Jupyter notebook을 실행합니다.
 
-jupyter notebook
+* jupyter notebook
 
 4. 실습 파일 concrete_dropout.ipynb로 이동합니다.
